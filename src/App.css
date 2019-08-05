@@ -22,14 +22,12 @@ input {
   vertical-align: middle;
   padding: 2px 2px;
   margin: 2px 0;
-  display: inline-block;
   border: 1px solid #ccc;
   box-sizing: border-box;
-  color: antiquewhite;
+ 
+ 
 }
-.signupform{
-  
-}
+
 .App {
   text-align: center;
   background: url("./Images/login.png");
